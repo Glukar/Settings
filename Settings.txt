@@ -1,0 +1,36 @@
+VS Code 
+{
+    "html.autoClosingTags": false,
+    "editor.minimap.enabled": true,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.matchBrackets": false,
+    "editor.renderIndentGuides": false,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "diffEditor.renderSideBySide": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "window.zoomLevel": 0, 
+    "editor.lightbulb.enabled": false,
+    "javascript.suggest.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    
+}
+
+-Extensions:
+Atom Keymap (ms-vscode.atom-keybindings)
+Atom One Dark (akamud.vscode-theme-onedark)
+Debugger for Firefox (firefox-devtools.vscode-firefox-debug)
+Debugger for Java (vscjava.vscode-java-debug)
+GitLens (eamodio.gitlens)
+Java Extension Pack (vscjava.vscode-java-pack)
+Java Test Runner (vscjava.vscode-java-test)
+Language Support for Java (redhat.java)
+Maven for Java (vscjava.vscode-maven)
+Project Manager for Java (vscjava.vscode-java-dependency)
+Visual Studio IntelliCode (visualstudioexptteam.vscodeintellicode)
+---------------------------------------------------------------------------------------------------
